@@ -1,0 +1,11 @@
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\bin\Debug\net8.0\Layer.Domain.deps.json
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\bin\Debug\net8.0\Layer.Domain.dll
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\bin\Debug\net8.0\Layer.Domain.pdb
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\obj\Debug\net8.0\Layer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\obj\Debug\net8.0\Layer.Domain.AssemblyInfoInputs.cache
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\obj\Debug\net8.0\Layer.Domain.AssemblyInfo.cs
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\obj\Debug\net8.0\Layer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\obj\Debug\net8.0\Layer.Domain.dll
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\obj\Debug\net8.0\refint\Layer.Domain.dll
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\obj\Debug\net8.0\Layer.Domain.pdb
+C:\Users\mosta\Desktop\CQRS MediatR\CleanArch__CQRS__MediatR\src\Layer.Domain\obj\Debug\net8.0\ref\Layer.Domain.dll
